@@ -1,4 +1,5 @@
 T = int(input('T: '))
+#Taking the input
 
 
 for i in range(T):
